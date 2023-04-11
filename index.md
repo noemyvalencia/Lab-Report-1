@@ -16,7 +16,7 @@ If you haven't installed VSCode to your computer, do the following:
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-06%20at%202.16.36%20PM.png)
 
 2. Select the option bash from your terminal like in the picture:
-![Image](https://github.com/noemyvalencia/cse15l-lab-reports/blob/main/Screenshot%202023-04-06%20at%202.19.17%20PM.png)
+![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-06%20at%202.19.17%20PM.png)
 
 3. In your terminal type the command `ssh cs15lsp23zz@ieng6.ucsd.edu` where the zz is replaced by the letters in your own username.
 4. It will ask you for permission, so make sure to type `yes` and hit enter.
