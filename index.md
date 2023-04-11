@@ -13,7 +13,7 @@ If you haven't installed VSCode to your computer, do the following:
 ## Step 2: Connect Remotely:
 
 1. Now that you have VSCode, go ahead and open a new terminal, if you're using MacOS it should look like the following picture:
-![Image](https://github.com/noemyvalencia/cse15l-lab-reports/blob/main/Screenshot%202023-04-06%20at%202.16.36%20PM.png)
+![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-06%20at%202.16.36%20PM.png)
 
 2. Select the option bash from your terminal like in the picture:
 ![Image](https://github.com/noemyvalencia/cse15l-lab-reports/blob/main/Screenshot%202023-04-06%20at%202.19.17%20PM.png)
