@@ -8,7 +8,7 @@ If you haven't installed VSCode to your computer, do the following:
 
 1. Click the [Link](https://code.visualstudio.com/download) and follow the steps according to your computer system.
 2. After doing so, your Visual Studio Code should look something like this:
-![Image](https://github.com/noemyvalencia/cse15l-lab-reports/blob/main/Screenshot%202023-04-06%20at%202.13.01%20PM.png)
+![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-06%20at%202.13.01%20PM.png)
 
 ## Step 2: Connect Remotely:
 
