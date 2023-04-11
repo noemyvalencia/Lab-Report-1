@@ -21,7 +21,7 @@ If you haven't installed VSCode to your computer, do the following:
 3. In your terminal type the command `ssh cs15lsp23zz@ieng6.ucsd.edu` where the zz is replaced by the letters in your own username.
 4. It will ask you for permission, so make sure to type `yes` and hit enter.
 5. After saying yes, it will ask you for your password, **Note that you will not see any characters when typing your password, DO NOT WORRY,** type it as usual and finish your log in, it should look like the following picture:
-![Image](https://github.com/noemyvalencia/cse15l-lab-reports/blob/main/Screenshot%202023-04-06%20at%202.35.59%20PM.png)
+![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-06%20at%202.35.59%20PM.png)
 6. THAT'S IT! You now have remote access to your account on ieng6.
 
 ## Step 3: Make sure it's running well:
