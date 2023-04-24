@@ -54,7 +54,7 @@ Now that you have remote access, you want to make sure that you are connected co
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.16.08%20PM.png)
   
 * cat
-![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.08.58%20PM.png)
+![Image](Screenshot 2023-04-23 at 5.08.58 PM.png)
   
 * cp
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.12.12%20PM.png)
