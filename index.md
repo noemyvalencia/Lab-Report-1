@@ -27,13 +27,17 @@ If you haven't installed VSCode to your computer, do the following:
 ## Step 3: Make sure it's running well:
 
 Now that you have remote access, you want to make sure that you are connected correctly, to do that, run the following commands:
-* pwd
-* cd
-* ls -lat
-* ls -a
-* cd ~
-**Note that the pwd command might look something like this:**
+* pwd: returns full path name of your working directory.
+* cd: changes current working directory.
+* ls -lat: returns contents of the current directory. One per line, starting with "." and in chronological order starting from newest.
+* ls -a: returns contents of the current directory starting with ".".
+* ls <directory>: where <directory> is replaced by /home/linux/ieng6/cs15lsp23/cs15lsp23abc and "abc" is your username.
+* cd ~: changes current working directory to previous.
+* cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+* cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+**Note that the commands might look something like this:**
 ![Image](Screenshot%202023-04-06%20at%202.47.25%20PM.png)
+
 
 ---
 If you followed the steps accordingly, you should now have remote access to your ieng6 account!
