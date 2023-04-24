@@ -39,7 +39,7 @@ Now that you have remote access, you want to make sure that you are connected co
   pwd
 ![Image](Screenshot%202023-04-06%20at%202.47.25%20PM.png)
 * cd
-![Image](Screenshot 2023-04-23 at 5.05.49 PM.png)
+![Image](Screenshot 2023-04-23 at 5.12.46 PM.png)
   
 * ls -lat
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.14.01%20PM.png)
