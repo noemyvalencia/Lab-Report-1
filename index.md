@@ -38,25 +38,25 @@ Now that you have remote access, you want to make sure that you are connected co
 **Note that the commands might look something like this:**
   pwd
 ![Image](Screenshot%202023-04-06%20at%202.47.25%20PM.png)
-  cd
+* cd
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.12.46%20PM.png)
   
-  ls -lat
+* ls -lat
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.14.01%20PM.png)
   
-  ls -a
+* ls -a
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.14.23%20PM.png)
   
-  ls <directory>
+* ls <directory>
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.05.49%20PM.png)
   
-  cd ~
+* cd ~
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.16.08%20PM.png)
   
-  cat
+* cat
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.08.58%20PM.png)
   
-  cp
+* cp
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.12.12%20PM.png)
 
 ---
