@@ -49,7 +49,7 @@ Now that you have remote access, you want to make sure that you are connected co
 ![Image](Screenshot 2023-04-23 at 5.14.23 PM.png)
   
 * ls <directory>
-![Image](<img width="610" alt="Screenshot 2023-04-23 at 5 05 49 PM" src="https://user-images.githubusercontent.com/130100414/234080386-61e6df54-4784-4c28-9441-adb40708a7dd.png">)
+<img width="610" alt="Screenshot 2023-04-23 at 5 05 49 PM" src="https://user-images.githubusercontent.com/130100414/234080386-61e6df54-4784-4c28-9441-adb40708a7dd.png">
   
 * cd ~
 ![Image](Screenshot 2023-04-23 at 5.16.08 PM.png)
