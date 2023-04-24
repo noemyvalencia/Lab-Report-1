@@ -42,7 +42,7 @@ Now that you have remote access, you want to make sure that you are connected co
 ![Image](Screenshot 2023-04-23 at 5.12.46 PM.png)
   
 * ls -lat
-![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.14.01%20PM.png)
+![Image](Screenshot 2023-04-23 at 5.14.01 PM.png)
   
 * ls -a
 ![Image](https://github.com/noemyvalencia/Lab-Report-1/blob/main/Screenshot%202023-04-23%20at%205.14.23%20PM.png)
