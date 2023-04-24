@@ -35,8 +35,9 @@ Now that you have remote access, you want to make sure that you are connected co
 * cd ~: changes current working directory to previous.
 * cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 * cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-**Note that the commands might look something like this:**
-  pwd
+
+* **Note that the commands might look something like this:**
+* pwd
 ![Image](Screenshot%202023-04-06%20at%202.47.25%20PM.png)
 * cd
 ![Image](Screenshot 2023-04-23 at 5.12.46 PM.png)
@@ -48,7 +49,7 @@ Now that you have remote access, you want to make sure that you are connected co
 ![Image](Screenshot 2023-04-23 at 5.14.23 PM.png)
   
 * ls <directory>
-![Image](Screenshot 2023-04-23 at 5.05.49 PM.png)
+![Image](<img width="610" alt="Screenshot 2023-04-23 at 5 05 49 PM" src="https://user-images.githubusercontent.com/130100414/234080386-61e6df54-4784-4c28-9441-adb40708a7dd.png">)
   
 * cd ~
 ![Image](Screenshot 2023-04-23 at 5.16.08 PM.png)
